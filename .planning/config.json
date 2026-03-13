@@ -1,0 +1,21 @@
+{
+  "project": {
+    "name": "vibe-coding-learner",
+    "path": "/Users/Apple/Desktop/vibe-coding-learner",
+    "type": "learning"
+  },
+  "workflow": {
+    "defaultWave": 1,
+    "nyquistValidation": true,
+    "autoCheckpoint": true
+  },
+  "tracking": {
+    "recordProgress": true,
+    "recordDecisions": true,
+    "recordAssumptions": true
+  },
+  "obsidian": {
+    "vault": "vibe-coding-learner",
+    "enabled": true
+  }
+}
