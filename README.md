@@ -19,7 +19,7 @@
 - **AI 助手**: OpenCode
 - **版本控制**: Git + GitHub
 - **笔记**: Obsidian
-
+hello
 ## 作者
 
 [@zlong268](https://github.com/zlong268)
